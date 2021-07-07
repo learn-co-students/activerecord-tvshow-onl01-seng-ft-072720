@@ -1,0 +1,2 @@
+Show.create(name: "Naruto", network: "Aniplex", day: "Tuesday", rating: 10, season: "450")
+Show.create(name: "Avatar: The Last Airbender", network: "Nickelodeon", day: "Thursday", rating: 9, season: "five")
